@@ -1,0 +1,8 @@
+body {
+    background-color: red;
+}
+
+
+#blazor-error-ui {
+    display: none;
+}
