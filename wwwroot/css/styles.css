@@ -1,8 +1,132 @@
-body {
-    background-color: red;
+/*Body*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
+body {
+    background-color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.7em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
-#blazor-error-ui {
-    display: none;
+/*Header*/
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(188, 59, 12);
+    min-height: 100px;
+}
+
+.header h1 {
+    align-self: center;
+}
+
+/*Logo*/
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+/*Header date text*/
+.date-text {
+    font-size: 1.2em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*Aside menu*/
+.wrapper {
+    display: flex;
+    gap: 10px;
+    margin: 1rem;
+    min-height: 600px;
+}
+aside {
+    flex: 1;
+    background-color: red;
+}
+.menu {
+    list-style: none;
+    margin-top: 1rem;
+}
+.menu li {
+    padding: 1rem;
+    width: 90%;
+    margin: 0 auto;
+}
+.menu li a {
+    background-color: beige;
+    padding: 0.5rem;
+    border-radius: 4px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
+.menu li a:hover {
+    background-color: rgb(184, 184, 174);
+}
+.container {
+    flex: 2;
+    background-color: blue;
+}
+
+/*Index page*/
+.main-content {
+    padding: 1rem;
+    color: #d4cfcf;
+}
+
+/* Footer */
+footer p {
+    color: rgb(184, 184, 174);
+    background-color: rgb(188, 59, 12);
+    padding: 1rem;
+    text-align: center;
+}
+
+/*Converters*/
+.convert-container {
+    padding: 1rem;
+}
+.convert-container h2{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.converter {
+    padding: 1rem;
+    background-color: rgb(123, 123, 205);
+    border-radius: 4px;
+    box-shadow: 1px 2px 2px 1px;
+    margin-bottom: 2rem;
+}
+.converter input {
+    width: 30%;
+    padding: 0.3rem;
+    box-shadow: 1px 0 0 0;
+}
+.converter button {
+    padding: 0.3rem;
+    border-radius: 2px;
+    margin-left: auto;
+    background-color: green;
+    color: #fff;
+}
+.converter button:hover {
+    background-color: rgb(11, 85, 11);
+    cursor: pointer;
+}
+.converter button:active {background-color: green;}
+
+
+/*Media queries*/
+
+@media all and (max-width: 600px) {
+    .wrapper {
+        flex-direction: column;
+    }
 }

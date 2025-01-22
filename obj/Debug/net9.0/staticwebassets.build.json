@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NLknjBxOmeb9MCMUfjwjzGo2Tmxe6lIUaCfLxG+Rg0Q=",
+  "Hash": "HurRC5kdsnrDuyEw/Yzb4UaYguctzjif9fKhOHFLAyc=",
   "Source": "blazorWebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "73724g2ndv",
-      "Integrity": "YzSBHJAdg2Arnseg4f8nquimIm7EgVRPKhwDPpQqHWQ=",
+      "Fingerprint": "6xqpbb9ofa",
+      "Integrity": "its1UE1cXatAXgULb+oFRkCqs9GDcmbhpAfBcBeNld8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "hw7otxqyap",
-      "Integrity": "Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc=",
+      "Fingerprint": "tmh5lixfeg",
+      "Integrity": "hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazorWebAssembly.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "kvi6kp270n",
-      "Integrity": "EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30=",
+      "Fingerprint": "hhhrlrhtyc",
+      "Integrity": "RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\webcil\\blazorWebAssembly.wasm"
@@ -119,7 +119,7 @@
       "Integrity": "lIFBSyH5fOmCyz9NzfVceXU09qRLS0mn0JZG0tuYWBo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -140,7 +140,7 @@
       "Integrity": "zoGTv1THI1ohU8YlTf4/31t+nriX3EIuBnVSnf1wrXY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.js",
@@ -161,7 +161,7 @@
       "Integrity": "WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -182,7 +182,7 @@
       "Integrity": "bvHGVH9zAMOjdIvgvRKP4Bg793vWpedEYSWg32uUr3o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js",
@@ -203,7 +203,7 @@
       "Integrity": "gypqZnsxxUh4y4EJmawvOCaX4hoTaesVGwIgWXwZcNw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -224,7 +224,7 @@
       "Integrity": "q/nr9rL9/qurnmyljWmcv7yStKuvDUHexkNvaRJ3cD0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -245,7 +245,7 @@
       "Integrity": "SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -266,7 +266,7 @@
       "Integrity": "8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -287,7 +287,7 @@
       "Integrity": "L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\9.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -5960,12 +5960,12 @@
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.SecureString.wasm"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-hw7otxqyap.gz",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-tmh5lixfeg.gz",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/blazorWebAssembly#[.{fingerprint=hw7otxqyap}]!.pdb.gz",
+      "RelativePath": "_framework/blazorWebAssembly#[.{fingerprint=tmh5lixfeg}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5974,8 +5974,8 @@
       "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "j6ifggt0p0",
-      "Integrity": "NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k=",
+      "Fingerprint": "880ta3q616",
+      "Integrity": "mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.pdb"
@@ -7178,12 +7178,12 @@
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-en6fqy40rr.gz",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-ma02k6cdch.gz",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/styles#[.{fingerprint=en6fqy40rr}]?.css.gz",
+      "RelativePath": "css/styles#[.{fingerprint=ma02k6cdch}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7192,8 +7192,8 @@
       "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\css\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c0mehkcphi",
-      "Integrity": "FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg=",
+      "Fingerprint": "ulalnhmbdz",
+      "Integrity": "8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\css\\styles.css"
@@ -7493,12 +7493,12 @@
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Xml.XDocument.wasm"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-kvi6kp270n.gz",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-hhhrlrhtyc.gz",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/blazorWebAssembly#[.{fingerprint=kvi6kp270n}]!.wasm.gz",
+      "RelativePath": "_framework/blazorWebAssembly#[.{fingerprint=hhhrlrhtyc}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7507,8 +7507,8 @@
       "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uupqyfne9n",
-      "Integrity": "ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8=",
+      "Fingerprint": "c8m9lo2fg8",
+      "Integrity": "zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.wasm"
@@ -7850,12 +7850,12 @@
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-8ua5awoi8g.gz",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-trw92ku1za.gz",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=8ua5awoi8g}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=trw92ku1za}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7864,8 +7864,8 @@
       "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ldsloxy69w",
-      "Integrity": "6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U=",
+      "Fingerprint": "ak4bcpc5j1",
+      "Integrity": "JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html"
@@ -7974,27 +7974,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.Compression.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\t30t6k4p3i-t9uayjsn3e.gz",
-      "SourceId": "blazorWebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "blazorWebAssembly#[.{fingerprint=t9uayjsn3e}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazorWebAssembly.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "hz2kid8sh3",
-      "Integrity": "HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazorWebAssembly.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\t9s1a6xv5j-7f3f9acuyj.gz",
@@ -8121,27 +8100,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.Sockets.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\ut6vvkejsk-t9uayjsn3e.gz",
-      "SourceId": "blazorWebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "blazorWebAssembly#[.{fingerprint=t9uayjsn3e}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "hz2kid8sh3",
-      "Integrity": "HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\v4eziht4pf-tt0muuqqmn.gz",
@@ -8417,7 +8375,7 @@
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\xnz6h5ytc6-73724g2ndv.gz",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\xnz6h5ytc6-6xqpbb9ofa.gz",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
@@ -8431,8 +8389,8 @@
       "RelatedAsset": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g9m9t2yjkv",
-      "Integrity": "9D3SufUufGRbKAGWnqGr4EHcC8ZPNJ76N83vKnbfRts=",
+      "Fingerprint": "u3wk1dl5c2",
+      "Integrity": "imT6AYt1G6EzgOY3e58PVudK4eaqTcYXuTlR+V4X4a0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8669,48 +8627,6 @@
       "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css",
-      "SourceId": "blazorWebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "blazorWebAssembly#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "t9uayjsn3e",
-      "Integrity": "wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazorWebAssembly.bundle.scp.css",
-      "SourceId": "blazorWebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "blazorWebAssembly#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "t9uayjsn3e",
-      "Integrity": "wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazorWebAssembly.bundle.scp.css"
-    },
-    {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\css\\styles.css",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Discovered",
@@ -8725,19 +8641,40 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "en6fqy40rr",
-      "Integrity": "ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI=",
+      "Fingerprint": "ma02k6cdch",
+      "Integrity": "AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\code-logo.png",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "RelativePath": "images/code-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ztj0m3joo6",
+      "Integrity": "Z1b4tNnW1sYYXZW5WzjoitPUDyOY8VM7WmuAaJcSJno=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\code-logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\favicon.png",
+      "SourceId": "blazorWebAssembly",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8750,15 +8687,15 @@
       "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\icon-192.png",
+      "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\icon-192.png",
       "SourceId": "blazorWebAssembly",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "icon-192#[.{fingerprint}]?.png",
+      "RelativePath": "images/icon-192#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8771,7 +8708,7 @@
       "Integrity": "DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
+      "OriginalItemSpec": "wwwroot\\images\\icon-192.png"
     },
     {
       "Identity": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",
@@ -8788,8 +8725,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8ua5awoi8g",
-      "Integrity": "IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s=",
+      "Fingerprint": "trw92ku1za",
+      "Integrity": "KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -8815,11 +8752,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YzSBHJAdg2Arnseg4f8nquimIm7EgVRPKhwDPpQqHWQ=\""
+          "Value": "\"its1UE1cXatAXgULb+oFRkCqs9GDcmbhpAfBcBeNld8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:52 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8829,18 +8766,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YzSBHJAdg2Arnseg4f8nquimIm7EgVRPKhwDPpQqHWQ="
+          "Value": "sha256-its1UE1cXatAXgULb+oFRkCqs9GDcmbhpAfBcBeNld8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\xnz6h5ytc6-73724g2ndv.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\xnz6h5ytc6-6xqpbb9ofa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081386832"
+          "Quality": "0.000081366965"
         }
       ],
       "ResponseHeaders": [
@@ -8850,15 +8787,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12286"
+          "Value": "12289"
         },
         {
           "Name": "ETag",
-          "Value": "\"9D3SufUufGRbKAGWnqGr4EHcC8ZPNJ76N83vKnbfRts=\""
+          "Value": "\"imT6AYt1G6EzgOY3e58PVudK4eaqTcYXuTlR+V4X4a0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:49:51 GMT"
+          "Value": "Wed, 22 Jan 2025 16:38:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8878,19 +8815,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YzSBHJAdg2Arnseg4f8nquimIm7EgVRPKhwDPpQqHWQ=\""
+          "Value": "W/\"its1UE1cXatAXgULb+oFRkCqs9GDcmbhpAfBcBeNld8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YzSBHJAdg2Arnseg4f8nquimIm7EgVRPKhwDPpQqHWQ="
+          "Value": "sha256-its1UE1cXatAXgULb+oFRkCqs9GDcmbhpAfBcBeNld8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\xnz6h5ytc6-73724g2ndv.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\xnz6h5ytc6-6xqpbb9ofa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8899,7 +8836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12286"
+          "Value": "12289"
         },
         {
           "Name": "Content-Type",
@@ -8907,11 +8844,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9D3SufUufGRbKAGWnqGr4EHcC8ZPNJ76N83vKnbfRts=\""
+          "Value": "\"imT6AYt1G6EzgOY3e58PVudK4eaqTcYXuTlR+V4X4a0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:49:51 GMT"
+          "Value": "Wed, 22 Jan 2025 16:38:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8929,7 +8866,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9D3SufUufGRbKAGWnqGr4EHcC8ZPNJ76N83vKnbfRts="
+          "Value": "sha256-imT6AYt1G6EzgOY3e58PVudK4eaqTcYXuTlR+V4X4a0="
         }
       ]
     },
@@ -9071,168 +9008,7 @@
       ]
     },
     {
-      "Route": "_framework/blazorWebAssembly.hw7otxqyap.pdb",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19952"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hw7otxqyap"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/blazorWebAssembly.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazorWebAssembly.hw7otxqyap.pdb",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-hw7otxqyap.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000072437523"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13804"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hw7otxqyap"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/blazorWebAssembly.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazorWebAssembly.hw7otxqyap.pdb.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-hw7otxqyap.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13804"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hw7otxqyap"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/blazorWebAssembly.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazorWebAssembly.kvi6kp270n.wasm",
+      "Route": "_framework/blazorWebAssembly.hhhrlrhtyc.wasm",
       "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9242,7 +9018,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13589"
+          "Value": "14101"
         },
         {
           "Name": "Content-Type",
@@ -9250,11 +9026,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30=\""
+          "Value": "\"RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9264,7 +9040,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kvi6kp270n"
+          "Value": "hhhrlrhtyc"
         },
         {
           "Name": "label",
@@ -9272,18 +9048,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30="
+          "Value": "sha256-RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE="
         }
       ]
     },
     {
-      "Route": "_framework/blazorWebAssembly.kvi6kp270n.wasm",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-kvi6kp270n.gz",
+      "Route": "_framework/blazorWebAssembly.hhhrlrhtyc.wasm",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-hhhrlrhtyc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000171585450"
+          "Quality": "0.000155836060"
         }
       ],
       "ResponseHeaders": [
@@ -9293,15 +9069,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5827"
+          "Value": "6416"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8=\""
+          "Value": "\"zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9321,13 +9097,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30=\""
+          "Value": "W/\"RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kvi6kp270n"
+          "Value": "hhhrlrhtyc"
         },
         {
           "Name": "label",
@@ -9335,13 +9111,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30="
+          "Value": "sha256-RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE="
         }
       ]
     },
     {
-      "Route": "_framework/blazorWebAssembly.kvi6kp270n.wasm.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-kvi6kp270n.gz",
+      "Route": "_framework/blazorWebAssembly.hhhrlrhtyc.wasm.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-hhhrlrhtyc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9350,7 +9126,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5827"
+          "Value": "6416"
         },
         {
           "Name": "Content-Type",
@@ -9358,11 +9134,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8=\""
+          "Value": "\"zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9380,7 +9156,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kvi6kp270n"
+          "Value": "hhhrlrhtyc"
         },
         {
           "Name": "label",
@@ -9388,7 +9164,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8="
+          "Value": "sha256-zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA="
         }
       ]
     },
@@ -9403,7 +9179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19952"
+          "Value": "22324"
         },
         {
           "Name": "Content-Type",
@@ -9411,11 +9187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc=\""
+          "Value": "\"hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9425,18 +9201,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc="
+          "Value": "sha256-hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w="
         }
       ]
     },
     {
       "Route": "_framework/blazorWebAssembly.pdb",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-hw7otxqyap.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-tmh5lixfeg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000072437523"
+          "Quality": "0.000062189055"
         }
       ],
       "ResponseHeaders": [
@@ -9446,15 +9222,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13804"
+          "Value": "16079"
         },
         {
           "Name": "ETag",
-          "Value": "\"NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k=\""
+          "Value": "\"mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9474,19 +9250,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc=\""
+          "Value": "W/\"hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ab/hzqQtWvdmaXh5l87g9iJoKU2ersnbXuQOR149twc="
+          "Value": "sha256-hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w="
         }
       ]
     },
     {
       "Route": "_framework/blazorWebAssembly.pdb.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-hw7otxqyap.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-tmh5lixfeg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9495,7 +9271,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13804"
+          "Value": "16079"
         },
         {
           "Name": "Content-Type",
@@ -9503,11 +9279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k=\""
+          "Value": "\"mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9525,7 +9301,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NdZSEKrcwG7axJnol5Lq/CuxOTQN0NPKkDTNYJZdo7k="
+          "Value": "sha256-mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazorWebAssembly.tmh5lixfeg.pdb",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazorWebAssembly.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 16:44:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tmh5lixfeg"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/blazorWebAssembly.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazorWebAssembly.tmh5lixfeg.pdb",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-tmh5lixfeg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000062189055"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16079"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tmh5lixfeg"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/blazorWebAssembly.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hXVSiRtof1AXt+zO2N+GBYe3CriqbY+NCFes2AExT2w="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazorWebAssembly.tmh5lixfeg.pdb.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\e9zl0fhs3i-tmh5lixfeg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tmh5lixfeg"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/blazorWebAssembly.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mANVMZALknnUqDbKrmhWyBFu3ZoxfMDNu2vzyh1/8VE="
         }
       ]
     },
@@ -9540,7 +9477,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13589"
+          "Value": "14101"
         },
         {
           "Name": "Content-Type",
@@ -9548,11 +9485,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30=\""
+          "Value": "\"RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9562,18 +9499,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30="
+          "Value": "sha256-RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE="
         }
       ]
     },
     {
       "Route": "_framework/blazorWebAssembly.wasm",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-kvi6kp270n.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-hhhrlrhtyc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000171585450"
+          "Quality": "0.000155836060"
         }
       ],
       "ResponseHeaders": [
@@ -9583,15 +9520,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5827"
+          "Value": "6416"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8=\""
+          "Value": "\"zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9611,19 +9548,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30=\""
+          "Value": "W/\"RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EB1NrYV7ZWcPmqWELoxS4gao1Icsma8jFRG8WazCJ30="
+          "Value": "sha256-RWKcnDPLjUYPXIT/IEBPcwgKK69Mn8djMd5YHcvq4jE="
         }
       ]
     },
     {
       "Route": "_framework/blazorWebAssembly.wasm.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-kvi6kp270n.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\qavins3a2z-hhhrlrhtyc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9632,7 +9569,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5827"
+          "Value": "6416"
         },
         {
           "Name": "Content-Type",
@@ -9640,11 +9577,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8=\""
+          "Value": "\"zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:47:14 GMT"
+          "Value": "Wed, 22 Jan 2025 16:44:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9662,7 +9599,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZvMAQuWHu6856xtdp8h+jzk2nnWPyC4yqWDxGau/yg8="
+          "Value": "sha256-zE0kXFhASQMgCN0tKoga8pIjCziL1rM8Y1ZSE8BVzeA="
         }
       ]
     },
@@ -9689,7 +9626,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9826,7 +9763,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9987,7 +9924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10124,7 +10061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10285,7 +10222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10446,7 +10383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10583,7 +10520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:34 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10720,7 +10657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10881,7 +10818,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11018,7 +10955,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11155,7 +11092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11316,7 +11253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
+          "Value": "Tue, 10 Dec 2024 20:10:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11477,7 +11414,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
+          "Value": "Mon, 16 Sep 2024 13:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11614,7 +11551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
+          "Value": "Mon, 16 Sep 2024 13:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11775,7 +11712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
+          "Value": "Mon, 16 Sep 2024 13:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11912,7 +11849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
+          "Value": "Mon, 16 Sep 2024 13:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12073,7 +12010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
+          "Value": "Mon, 16 Sep 2024 13:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12210,7 +12147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Sep 2024 14:45:12 GMT"
+          "Value": "Mon, 16 Sep 2024 13:45:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69267,609 +69204,13 @@
       ]
     },
     {
-      "Route": "blazorWebAssembly.bundle.scp.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\t30t6k4p3i-t9uayjsn3e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000714285714"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.bundle.scp.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazorWebAssembly.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4653"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\t30t6k4p3i-t9uayjsn3e.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.styles.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\ut6vvkejsk-t9uayjsn3e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000714285714"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.styles.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4653"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.styles.css.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\ut6vvkejsk-t9uayjsn3e.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.t9uayjsn3e.bundle.scp.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\t30t6k4p3i-t9uayjsn3e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000714285714"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t9uayjsn3e"
-        },
-        {
-          "Name": "label",
-          "Value": "blazorWebAssembly.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.t9uayjsn3e.bundle.scp.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazorWebAssembly.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4653"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t9uayjsn3e"
-        },
-        {
-          "Name": "label",
-          "Value": "blazorWebAssembly.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.t9uayjsn3e.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\t30t6k4p3i-t9uayjsn3e.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t9uayjsn3e"
-        },
-        {
-          "Name": "label",
-          "Value": "blazorWebAssembly.bundle.scp.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.t9uayjsn3e.styles.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\ut6vvkejsk-t9uayjsn3e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000714285714"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t9uayjsn3e"
-        },
-        {
-          "Name": "label",
-          "Value": "blazorWebAssembly.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.t9uayjsn3e.styles.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4653"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t9uayjsn3e"
-        },
-        {
-          "Name": "label",
-          "Value": "blazorWebAssembly.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wcXh8jiMF9YFbBGU3rnsWFFzY252IcQZh3u5C0nkcQw="
-        }
-      ]
-    },
-    {
-      "Route": "blazorWebAssembly.t9uayjsn3e.styles.css.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\ut6vvkejsk-t9uayjsn3e.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 09:57:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t9uayjsn3e"
-        },
-        {
-          "Name": "label",
-          "Value": "blazorWebAssembly.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HXL6uFnD9BBp+Cc9czx1USVXWxUgWkOs/gfX1WrP65c="
-        }
-      ]
-    },
-    {
       "Route": "css/styles.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-en6fqy40rr.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-ma02k6cdch.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.010638297872"
+          "Quality": "0.001377410468"
         }
       ],
       "ResponseHeaders": [
@@ -69879,15 +69220,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "93"
+          "Value": "725"
         },
         {
           "Name": "ETag",
-          "Value": "\"FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg=\""
+          "Value": "\"8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:25 GMT"
+          "Value": "Wed, 22 Jan 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69907,13 +69248,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI=\""
+          "Value": "W/\"AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI="
+          "Value": "sha256-AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8="
         }
       ]
     },
@@ -69928,7 +69269,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "84"
+          "Value": "1926"
         },
         {
           "Name": "Content-Type",
@@ -69936,11 +69277,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI=\""
+          "Value": "\"AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:25 GMT"
+          "Value": "Wed, 22 Jan 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69950,13 +69291,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI="
+          "Value": "sha256-AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8="
         }
       ]
     },
     {
       "Route": "css/styles.css.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-en6fqy40rr.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-ma02k6cdch.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -69965,7 +69306,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "93"
+          "Value": "725"
         },
         {
           "Name": "Content-Type",
@@ -69973,11 +69314,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg=\""
+          "Value": "\"8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:25 GMT"
+          "Value": "Wed, 22 Jan 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69995,18 +69336,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg="
+          "Value": "sha256-8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg="
         }
       ]
     },
     {
-      "Route": "css/styles.en6fqy40rr.css",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-en6fqy40rr.gz",
+      "Route": "css/styles.ma02k6cdch.css",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-ma02k6cdch.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.010638297872"
+          "Quality": "0.001377410468"
         }
       ],
       "ResponseHeaders": [
@@ -70016,15 +69357,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "93"
+          "Value": "725"
         },
         {
           "Name": "ETag",
-          "Value": "\"FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg=\""
+          "Value": "\"8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:25 GMT"
+          "Value": "Wed, 22 Jan 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70044,13 +69385,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI=\""
+          "Value": "W/\"AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "en6fqy40rr"
+          "Value": "ma02k6cdch"
         },
         {
           "Name": "label",
@@ -70058,12 +69399,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI="
+          "Value": "sha256-AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8="
         }
       ]
     },
     {
-      "Route": "css/styles.en6fqy40rr.css",
+      "Route": "css/styles.ma02k6cdch.css",
       "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70073,7 +69414,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "84"
+          "Value": "1926"
         },
         {
           "Name": "Content-Type",
@@ -70081,11 +69422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI=\""
+          "Value": "\"AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:25 GMT"
+          "Value": "Wed, 22 Jan 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70095,7 +69436,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "en6fqy40rr"
+          "Value": "ma02k6cdch"
         },
         {
           "Name": "label",
@@ -70103,13 +69444,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ls7tSC6ITFrJ4lYzFMmTd5lUk8rjVUw7uTnB4BP9+MI="
+          "Value": "sha256-AiYQU8bw05i877jU45Ex2Mp+mHqTmK12uezp/72Wpm8="
         }
       ]
     },
     {
-      "Route": "css/styles.en6fqy40rr.css.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-en6fqy40rr.gz",
+      "Route": "css/styles.ma02k6cdch.css.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\nlesxycwja-ma02k6cdch.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70118,7 +69459,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "93"
+          "Value": "725"
         },
         {
           "Name": "Content-Type",
@@ -70126,11 +69467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg=\""
+          "Value": "\"8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:25 GMT"
+          "Value": "Wed, 22 Jan 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70148,7 +69489,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "en6fqy40rr"
+          "Value": "ma02k6cdch"
         },
         {
           "Name": "label",
@@ -70156,13 +69497,95 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FBgbjz/2u4fdtzbstwwzC4B8VIpzA1rgqXxo07Ej6mg="
+          "Value": "sha256-8qOSx+oQ7VJenPpFC+kFOu57yrbgsFnODwaSNHLMGVg="
         }
       ]
     },
     {
-      "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\favicon.png",
+      "Route": "images/code-logo.png",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\code-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1b4tNnW1sYYXZW5WzjoitPUDyOY8VM7WmuAaJcSJno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 08:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1b4tNnW1sYYXZW5WzjoitPUDyOY8VM7WmuAaJcSJno="
+        }
+      ]
+    },
+    {
+      "Route": "images/code-logo.ztj0m3joo6.png",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\code-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1b4tNnW1sYYXZW5WzjoitPUDyOY8VM7WmuAaJcSJno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 08:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ztj0m3joo6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/code-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1b4tNnW1sYYXZW5WzjoitPUDyOY8VM7WmuAaJcSJno="
+        }
+      ]
+    },
+    {
+      "Route": "images/favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70197,7 +69620,7 @@
         },
         {
           "Name": "label",
-          "Value": "favicon.png"
+          "Value": "images/favicon.png"
         },
         {
           "Name": "integrity",
@@ -70206,8 +69629,8 @@
       ]
     },
     {
-      "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\favicon.png",
+      "Route": "images/favicon.png",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70243,8 +69666,8 @@
       ]
     },
     {
-      "Route": "icon-192.f9uvjujlxy.png",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\icon-192.png",
+      "Route": "images/icon-192.f9uvjujlxy.png",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\icon-192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70279,7 +69702,7 @@
         },
         {
           "Name": "label",
-          "Value": "icon-192.png"
+          "Value": "images/icon-192.png"
         },
         {
           "Name": "integrity",
@@ -70288,8 +69711,8 @@
       ]
     },
     {
-      "Route": "icon-192.png",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\icon-192.png",
+      "Route": "images/icon-192.png",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\icon-192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70325,13 +69748,13 @@
       ]
     },
     {
-      "Route": "index.8ua5awoi8g.html",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-8ua5awoi8g.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-trw92ku1za.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002739726027"
+          "Quality": "0.003194888179"
         }
       ],
       "ResponseHeaders": [
@@ -70341,19 +69764,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "312"
         },
         {
           "Name": "ETag",
-          "Value": "\"6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U=\""
+          "Value": "\"JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:14 GMT"
+          "Value": "Wed, 22 Jan 2025 11:39:17 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -70369,26 +69792,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s=\""
+          "Value": "W/\"KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "8ua5awoi8g"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s="
+          "Value": "sha256-KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM="
         }
       ]
     },
     {
-      "Route": "index.8ua5awoi8g.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70398,7 +69813,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "582"
+          "Value": "496"
         },
         {
           "Name": "Content-Type",
@@ -70406,11 +69821,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s=\""
+          "Value": "\"KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:14 GMT"
+          "Value": "Wed, 22 Jan 2025 11:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-trw92ku1za.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 11:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8="
+        }
+      ]
+    },
+    {
+      "Route": "index.trw92ku1za.html",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-trw92ku1za.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003194888179"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "312"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 11:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trw92ku1za"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM="
+        }
+      ]
+    },
+    {
+      "Route": "index.trw92ku1za.html",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 11:39:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70420,7 +69980,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8ua5awoi8g"
+          "Value": "trw92ku1za"
         },
         {
           "Name": "label",
@@ -70428,13 +69988,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s="
+          "Value": "sha256-KUB8m2Z0IEQRHVf1f0f+4wMl1sH2RTCRG85n8kFz7UM="
         }
       ]
     },
     {
-      "Route": "index.8ua5awoi8g.html.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-8ua5awoi8g.gz",
+      "Route": "index.trw92ku1za.html.gz",
+      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-trw92ku1za.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70443,7 +70003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "312"
         },
         {
           "Name": "Content-Type",
@@ -70451,11 +70011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U=\""
+          "Value": "\"JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:14 GMT"
+          "Value": "Wed, 22 Jan 2025 11:39:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70473,7 +70033,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8ua5awoi8g"
+          "Value": "trw92ku1za"
         },
         {
           "Name": "label",
@@ -70481,144 +70041,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-8ua5awoi8g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002739726027"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "364"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "582"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IJBKYqCRlIQyKMk+o2hnLTwPbDMusZiJoN6AveuDi1s="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sa8419rbh2-8ua5awoi8g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6V50DOWrVshWDDp5+c+Feun9PV+PECON0xmVe02BM/U="
+          "Value": "sha256-JoRnh2wGhWmnCrRKxD9vP1RcUW6Rd56s/Qj85FjKWa8="
         }
       ]
     }

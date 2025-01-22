@@ -1,0 +1,38 @@
+@page "/convert"
+
+<div class="convert-container">
+    <h2>Konvertera</h2>
+    <div class="converter">
+        <h3>Konvertera km/h till miles/hour</h3>
+        @*Bind kmh variable to kmh input field*@
+        <input type="number" @bind="kmh" placeholder="Ange hastighet i km/h" />
+        @*Call convert function on click*@
+        <button @onclick="ConvertKmhToMph">Konvertera</button>
+        @*Display result*@
+        <p>Resultat: @mph miles/hour</p>
+    </div>
+    <div class="converter">
+        <h3>Konvertera meter till fot:</h3>
+        @*Bind kmh variable to kmh input field*@
+        <input type="number" @bind="meters" placeholder="Ange antal meter">
+        @*Call convert function on click*@
+        <button @onclick="ConvertMetersToFeet">Konvertera</button>
+        @*Display result with no decimals*@
+        <p>Resultat: @feet.ToString("0.0") fot</p>
+    </div>
+</div>      
+    
+@code {
+    private double meters;
+    private double feet;
+    private double kmh;
+    private double mph;
+    private void ConvertMetersToFeet()
+    {
+        feet = Math.Round(meters * 3.28084, 2);
+    }
+    private void ConvertKmhToMph()
+    {
+        mph = (int)Math.Round(kmh * 0.621371);
+    }
+}

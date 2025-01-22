@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p/xlhwLrjXg=",
+  "dgSpecHash": "EB/a5NcqeT0=",
   "success": true,
   "projectFilePath": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\blazorWebAssembly.csproj",
   "expectedPackageFiles": [
@@ -29,8 +29,7 @@
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.jsinterop\\9.0.1\\microsoft.jsinterop.9.0.1.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.1\\microsoft.jsinterop.webassembly.9.0.1.nupkg.sha512",
     "C:\\Users\\nygar\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.1\\microsoft.net.illink.tasks.9.0.1.nupkg.sha512",
-    "C:\\Users\\nygar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.1\\microsoft.net.sdk.webassembly.pack.9.0.1.nupkg.sha512",
-    "C:\\Users\\nygar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.1.nupkg.sha512"
+    "C:\\Users\\nygar\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.1\\microsoft.net.sdk.webassembly.pack.9.0.1.nupkg.sha512"
   ],
   "logs": []
 }

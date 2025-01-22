@@ -5,20 +5,20 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazorWebAssembly.styles.css",
-      "PackagePath": "staticwebassets\\blazorWebAssembly.styles.css"
-    },
-    {
       "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\code-logo.png",
+      "PackagePath": "staticwebassets\\images\\code-logo.png"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\icon-192.png",
+      "PackagePath": "staticwebassets\\images\\icon-192.png"
     },
     {
       "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",

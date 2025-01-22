@@ -1,16 +1,27 @@
 ﻿@inherits LayoutComponentBase
 
-<header>
-    <div class="header-container">
-        <h1>.NET</h1>
-        <NavMenu />
+<header class="header">
+    <a href="/">
+        <img src="../images/code-logo.png" alt="logo" class="logo">
+    </a>
+    <div>
+        <p class="date-text">Dagens datum är: @date.ToString("yyy-MM-dd")</p>
     </div>
 </header>
-<div class="container">
-    <main>
-        @Body
-    </main>
+<div class="wrapper">
+    <aside>
+        <NavMenu />
+    </aside>
+    <div class="container">
+        <main>
+            @Body
+        </main>
+    </div>
 </div>
 <footer>
     <p>Exempel av Andreas Nygård, 2025</p>
 </footer>
+
+@code {
+    DateTime date = DateTime.Now;
+}

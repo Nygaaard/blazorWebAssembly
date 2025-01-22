@@ -36,8 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/nygar/OneDrive/Skrivbord/WebbutvecklingC\#/blazorWebAssembly/Pages/Convert.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nygar/OneDrive/Skrivbord/WebbutvecklingC\#/blazorWebAssembly/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nygar/OneDrive/Skrivbord/WebbutvecklingC\#/blazorWebAssembly/Pages/Json.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnNvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nygar/OneDrive/Skrivbord/WebbutvecklingC\#/blazorWebAssembly/_Imports.razor]
