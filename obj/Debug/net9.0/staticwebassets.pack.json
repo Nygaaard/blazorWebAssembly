@@ -17,8 +17,24 @@
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\forest.jpg",
+      "PackagePath": "staticwebassets\\images\\forest.jpg"
+    },
+    {
       "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\icon-192.png",
       "PackagePath": "staticwebassets\\images\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\sea.jpg",
+      "PackagePath": "staticwebassets\\images\\sea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\woman.jpg",
+      "PackagePath": "staticwebassets\\images\\woman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\yellow-flowers.jpg",
+      "PackagePath": "staticwebassets\\images\\yellow-flowers.jpg"
     },
     {
       "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",

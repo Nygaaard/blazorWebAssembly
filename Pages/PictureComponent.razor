@@ -1,0 +1,28 @@
+<div class="image-container">
+    <div class="image-frame">
+        @*Anropa funktion vid klick*@
+        <img src="@CurrentImage" alt="Blomma" @onclick="ChangeImage" id="image" />
+    </div>
+</div>
+
+@code {
+    // Array med bilder
+    private string[] images = new string[]
+    {
+        "./images/yellow-flowers.jpg",
+        "./images/woman.jpg",
+        "./images/sea.jpg",
+        "./images/forest.jpg"
+    };
+
+    private int currentIndex = 0;
+
+    // Nuvarande bild
+    private string CurrentImage => images[currentIndex];
+
+    // Metod för att byta bild vid klick
+    private void ChangeImage()
+    {
+        currentIndex = (currentIndex + 1) % images.Length;
+    }
+}

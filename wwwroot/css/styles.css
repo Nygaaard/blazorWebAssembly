@@ -87,12 +87,38 @@ aside {
     padding: 1rem;
     color: #ececec;
 }
+.main-content h3 {
+    margin-left: 1rem;
+}
 
 .welcome-section {
     padding: 0.5rem;
 }
 .welcome-section p, h2{
     padding: 0.5rem;
+}
+/*Image container and frames*/
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.image-frame {
+    max-width: 80%; 
+    padding: 0.5rem;
+    background-color: #3c3836;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px; 
+    overflow: hidden;
+}
+.image-frame img {
+    width: 100%;
+    height: auto; 
+    border: 2px solid #af5f2f;
+}
+.image-frame img:hover {
+    cursor: pointer;
 }
 
 .norris-content {
