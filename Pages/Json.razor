@@ -1,6 +1,39 @@
 @page "/json"
+@inject HttpClient Http
 
 @*Title*@
 <PageTitle>JSON</PageTitle>
 
 <h2>JSON</h2>
+
+<section class="norris-content">
+    <h3>Chuck Norris Skämt</h3>
+
+    @*Anropa funktion som hämtar skämt*@
+    <button @onclick="FetchJoke">Ge mig ett skämt</button>
+
+    <p>@joke</p>
+</section>
+
+@code {
+    //Fält
+    private string joke = "";
+
+    //Funktion som hämtar data 
+    private async Task FetchJoke()
+    {
+        var response = await Http.GetFromJsonAsync<JokeResponse>("https://api.chucknorris.io/jokes/random");
+        if (response != null)
+        {
+            joke = response.Value;
+        }
+    }
+    //
+    public class JokeResponse
+    {
+        public string IconUrl { get; set; }
+        public string Id { get; set; }
+        public string Url { get; set; }
+        public string Value { get; set; }
+    }
+}

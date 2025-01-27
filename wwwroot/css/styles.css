@@ -95,6 +95,36 @@ aside {
     padding: 0.5rem;
 }
 
+.norris-content {
+    padding: 1rem;
+    color: #ececec;
+    background-color: #3c3836;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    margin-top: 1.5rem;
+}
+.norris-content button {
+    padding: 0.4rem;
+    margin: 1rem;
+    border-radius: 4px;
+    background-color: #4a3f35;
+    color: #fff;
+}
+.norris-content button:hover {
+    background-color: #665c53;
+    cursor: pointer;
+}
+.norris-content button:active {
+    background-color: #4a3f35;
+}
+.norris-content p {
+    padding: 1rem;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin: 1rem 0 1.5rem;
+    box-shadow: 0 0 10px ;
+}
+
 /* Footer */
 footer p {
     color: rgb(184, 184, 174);
@@ -140,6 +170,10 @@ footer p {
     cursor: pointer;
 }
 .converter button:active {background-color: green;}
+
+.error {
+    color: red;
+}
 
 
 /*Media queries*/

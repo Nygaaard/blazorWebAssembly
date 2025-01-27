@@ -12,6 +12,7 @@
         @*Call convert function on click*@
         <button @onclick="ConvertKmhToMph">Konvertera</button>
         @*Display result*@
+        <p class="error">@kmhMessage</p>
         <p>Resultat: @mph miles/hour</p>
     </div>
     <div class="converter">
@@ -21,6 +22,7 @@
         @*Call convert function on click*@
         <button @onclick="ConvertMetersToFeet">Konvertera</button>
         @*Display result with no decimals*@
+        <p class="error">@metersMessage</p>
         <p>Resultat: @feet.ToString("0.0") fot</p>
     </div>
 </div>      
@@ -31,14 +33,37 @@
     private double feet;
     private double kmh;
     private double mph;
+    private string kmhMessage = string.Empty;
+    private string metersMessage = string.Empty;
 
     //Convert functions
     private void ConvertMetersToFeet()
     {
-        feet = Math.Round(meters * 3.28084, 2);
+        //Check if input is empty
+        if (meters > 0)
+        {
+            feet = Math.Round(meters * 3.28084, 2);
+            // Clear the message
+            metersMessage = string.Empty; 
+        }
+        else
+        {
+            metersMessage = "Vänligen ange ett giltigt antal meter.";
+        }
     }
+
     private void ConvertKmhToMph()
     {
-        mph = (int)Math.Round(kmh * 0.621371);
+        //Check if input is empty
+        if (kmh > 0)
+        {
+            mph = (int)Math.Round(kmh * 0.621371);
+            // Clear the message
+            kmhMessage = string.Empty;
+        }
+        else
+        {
+            kmhMessage = "Vänligen ange en giltig hastighet i km/h.";
+        }
     }
 }
