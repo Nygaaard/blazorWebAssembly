@@ -1,5 +1,8 @@
 @page "/convert"
 
+@*Title*@
+<PageTitle>Convert</PageTitle>
+
 <div class="convert-container">
     <h2>Konvertera</h2>
     <div class="converter">
@@ -23,10 +26,13 @@
 </div>      
     
 @code {
+    //Instances
     private double meters;
     private double feet;
     private double kmh;
     private double mph;
+
+    //Convert functions
     private void ConvertMetersToFeet()
     {
         feet = Math.Round(meters * 3.28084, 2);
