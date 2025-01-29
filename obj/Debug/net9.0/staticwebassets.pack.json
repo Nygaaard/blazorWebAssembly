@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\code-logo.png",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\code-logo.png",
       "PackagePath": "staticwebassets\\images\\code-logo.png"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\forest.jpg",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\forest.jpg",
       "PackagePath": "staticwebassets\\images\\forest.jpg"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\icon-192.png",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\icon-192.png",
       "PackagePath": "staticwebassets\\images\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\sea.jpg",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\sea.jpg",
       "PackagePath": "staticwebassets\\images\\sea.jpg"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\woman.jpg",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\woman.jpg",
       "PackagePath": "staticwebassets\\images\\woman.jpg"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\images\\yellow-flowers.jpg",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\images\\yellow-flowers.jpg",
       "PackagePath": "staticwebassets\\images\\yellow-flowers.jpg"
     },
     {
-      "Id": "C:\\Users\\nygar\\OneDrive\\Skrivbord\\WebbutvecklingC#\\blazorWebAssembly\\wwwroot\\index.html",
+      "Id": "C:\\Users\\nygar\\onedrive\\skrivbord\\webbutvecklingc#\\blazorwebassembly\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
